@@ -18,9 +18,9 @@ Using `modman`.
 
 Or
 
-1. Download the `console.php` and `console` files into the `shell` folder in
+1. Download the `shell/console.php` and `shell/console` files into the `shell` folder in
 your Magento root.
-2. Make the shell script executable with `chmod +x shell/console`.
+2. Make the `console` script executable with `chmod +x shell/console`.
 
 Usage
 -----
