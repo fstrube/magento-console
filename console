@@ -1,0 +1,6 @@
+#!/bin/sh
+#
+# Author: Franklin P. Strube <franklin.strube@gmail.com>
+# Copyright (c) 2013 Franklin P. Strube (http://franklinstrube.com)
+
+php -d auto_prepend_file=console.php -a

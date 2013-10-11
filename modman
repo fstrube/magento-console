@@ -1,0 +1,4 @@
+console                   shell/console
+console.php               shell/console.php
+
+@shell chmod +x $PROJECT/shell/console
